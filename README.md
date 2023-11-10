@@ -14,7 +14,9 @@ This repository contains samples of code and outputs in various programming lang
 ## *GIS & Arcpy*
 
 ## *R*
+[R directory](R)
 ### Isolation by Distance
+[SALS Isolation by Distance](R/SALS%20Isolation%20by%20Distance)
 
 Mantel correlation statistics are annotated in the chart inset. Plot shows the simple linear regression of the pairwise geographic distances among individual Saltmarsh Sparrow breeding marshes (given as great-circle distances) and their pairwise population genetic distances (calculated as linearized FST (FST/(1–FST)), with the best-fitting regression line to illustrate their relationship. 
 
