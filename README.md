@@ -26,6 +26,6 @@ landscape, habitat and hybridization dynamics drive population structure and gen
 the Saltmarsh Sparrow. Ornithological Applications duad025.
 
 ### Map of Saltmarsh Sparrow Sampling Sites
-[SALS sampling map](R/SALS%20sampling%20map/README.md)
+[SALS sampling map](R/SALS%20sampling%20map)
 
 ![image](https://github.com/LEFenderson/Portfolio/assets/49617364/483e6b66-7940-4af1-be5a-c2bc5568f141)
