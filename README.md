@@ -13,7 +13,7 @@ This repository contains samples of code and outputs in various programming lang
 
 ## *GIS & Arcpy*
 
-## *[R](R) - Contains a selection of analyses and figures generated with R:*
+## *R - Contains a selection of analyses and figures generated with R:*
 [R directory](R) 
 ### Isolation by Distance
 [SALS Isolation by Distance](R/SALS%20Isolation%20by%20Distance)
