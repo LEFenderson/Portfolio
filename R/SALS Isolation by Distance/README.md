@@ -14,6 +14,6 @@ Snippet:
 
 ![IBDrnw](https://github.com/LEFenderson/Portfolio/assets/49617364/8e37395c-01d1-4b9d-bffb-65734b19b7d5)
 
-[Back to R Directory Table of Contents](main/#r)
+[Back to R Directory Table of Contents](https://github.com/LEFenderson/Portfolio/tree/main/R#readme)
 
 [Back to Portfolio Table of Contents](https://github.com/LEFenderson/Portfolio/blob/main/README.md#portfolio)
