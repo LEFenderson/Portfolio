@@ -3,18 +3,18 @@ This repository contains samples of code and outputs in various programming lang
 
 **Jump to Section**
 
-[Bash & Awk](#bash--awk)
+- [Bash & Awk](#bash--awk)
 
-[GIS & Arcpy](#gis--arcpy)
+- [GIS & Arcpy](#gis--arcpy)
 
-[R](#r)
+- [R](#r)
 
 ## *Bash & Awk*
 
 ## *GIS & Arcpy*
 
-## *R*
-[R directory](R)
+## *[R](R) - Contains a selection of analyses and figures generated with R:*
+[R directory](R) 
 ### Isolation by Distance
 [SALS Isolation by Distance](R/SALS%20Isolation%20by%20Distance)
 
