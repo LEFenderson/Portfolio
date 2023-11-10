@@ -2,7 +2,12 @@
 
 This directory contains a selection of analyses and figures generated with R:
 
-**SALS Isolation by Distance**
+**Jump to Section:**
+
+- [Saltmarsh sparrow Isolation by Distance](#saltmarsh-sparrow-isolation-by-distance)  
+- [Saltmarsh sparrow sampling map](#saltmarsh-sparrow-sampling-map)
+
+### **Saltmarsh sparrow Isolation by Distance**
 
 Jump to folder: [SALS Isolation by Distance](SALS%20Isolation%20by%20Distance)
 
@@ -19,7 +24,7 @@ the Saltmarsh Sparrow. Ornithological Applications duad025.
 
 [Back to Portfolio Table of Contents](https://github.com/LEFenderson/Portfolio/blob/main/README.md#portfolio)
 
-**SALS sampling map**
+### **Saltmarsh sparrow sampling map**
 
 Jump to folder: [SALS sampling map](SALS%20sampling%20map)
 
