@@ -7,7 +7,7 @@ This repository contains samples of code and outputs in various programming lang
 
 - [GIS & Arcpy](#gis--arcpy)
 
-- [R](#r-contains-a-selection-of-analyses-and-figures-generated-with-r)
+- [R](#r---contains-a-selection-of-analyses-and-figures-generated-with-r)
 
 ## *Bash & Awk*
 
