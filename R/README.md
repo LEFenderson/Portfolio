@@ -1,3 +1,5 @@
+# R directory
+
 This directory contains a selection of analyses and figures generated with R:
 
 **SALS Isolation by Distance**
