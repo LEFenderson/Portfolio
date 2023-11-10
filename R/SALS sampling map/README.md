@@ -8,3 +8,8 @@ This directory contains 2 files:
 
 
 **2.) SALSusat-Map.Rnw** - The LaTeX, Sweave & R code used to generate the SALSusat-Map.pdf document.
+
+Snippet:
+
+![image](https://github.com/LEFenderson/Portfolio/assets/49617364/94fa4e72-c80f-4c70-b677-97809383712b)
+
