@@ -2,7 +2,7 @@ This directory contains a selection of analyses and figures generated with R:
 
 **SALS Isolation by Distance**
 
-[SALS Isolation by Distance](SALS%20Isolation%20by%20Distance)
+Jump to folder: [SALS Isolation by Distance](SALS%20Isolation%20by%20Distance)
 
 Mantel correlation statistics are annotated in the chart inset. Plot shows the simple linear regression of the pairwise geographic distances among individual Saltmarsh Sparrow breeding marshes (given as great-circle distances) and their pairwise population genetic distances (calculated as linearized FST (FST/(1–FST)), with the best-fitting regression line to illustrate their relationship. 
 
@@ -15,6 +15,6 @@ the Saltmarsh Sparrow. Ornithological Applications duad025.
 
 **SALS sampling map**
 
-[SALS sampling map](SALS%20sampling%20map)
+Jump to folder: [SALS sampling map](SALS%20sampling%20map)
 
 ![image](https://github.com/LEFenderson/Portfolio/assets/49617364/483e6b66-7940-4af1-be5a-c2bc5568f141)
