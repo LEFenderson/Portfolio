@@ -6,7 +6,8 @@ This directory contains 2 files:
 
 Snippet:
 
-<img src="https://github.com/LEFenderson/Portfolio/assets/49617364/9f6783e2-cf2c-412a-8256-5db855eef185" width="700">
+![IBDoutput](https://github.com/LEFenderson/Portfolio/assets/49617364/59d67603-2299-4aee-9ceb-7af9be3a53c2)
+
 
 **2.) SALSusat-IBD.Rnw** - This file containes the LaTeX, Sweave & R code used to generate the SALSusat-IBD.pdf document.
 
