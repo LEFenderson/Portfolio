@@ -15,3 +15,9 @@ Snippet:
 Snippet:
 
 ![maprnw](https://github.com/LEFenderson/Portfolio/assets/49617364/578748bf-e106-49ec-af1c-7e97487dfbbb)
+
+
+[^1]: *Walsh J, Fenderson LE, Elphick CS, Cohen JB, Field CR, Garey LK, Hodgman TP, Kocek
+AR, Longenecker R, O’Brien KM, Olsen BJ, Ruskin KJ, Shriver WG, Kovach AI (2023) Surrounding
+landscape, habitat and hybridization dynamics drive population structure and genetic diversity in
+the Saltmarsh Sparrow. Ornithological Applications duad025.*
