@@ -43,7 +43,7 @@
 \newcommand*{\MyPath}{/Users/Lindsey/Documents/ModernSparrowGenomics}
 The below information contains a complete record of the data sources, input file generation and structure, analysis and Rcode, output data and/or figures generated, and session information I used to complete the above title-referenced analysis for publication.
 
-The following can also be compiled in RStudio from the file \href{run:\MyPath/Copies of Associated ELN files/RLaTeX/SALSusat-Map.Rnw}{SALSusat-Map.Rnw}
+The following can also be compiled in RStudio from the file \href{run:SALSusat-Map.Rnw}{SALSusat-Map.Rnw}
 
 \textbf{Motivation:} Presented below is a map of the 24 breeding sites sampled in this paper. The output of the below figure should be essentially identical to the old figure given to me by Adrienne (see page 2 of file \href{run:\MyPath/Copies of Associated ELN files/SALS usat ms/Research Log Documents/SALS PopGen Summary 2-2018.pdf}{SALS PopGen Summary 2-2018.pdf}, from February 4, 2018 or slide/page 13 of file \href{run:\MyPath/Copies of Associated ELN files/SALS usat ms/Research Log Documents/SHARP - metapop gen PI retreat.pdf}{SHARP - metapop gen PI retreat.pdf}, from August 17, 2016). I have only rerun it here in order to make the final figure a vector format and cleaned up to be more suitable for publication; as well as to more fully document the figure generation for posterity.
 
@@ -67,13 +67,13 @@ library(dplyr)
 \begin{lstlisting}[linerange=\\begin\{Sinput\}-\\end\{Sinput\},includerangemarker=false, language=R]
 
 <<>>=
-sites <- read.table("~/Documents/ModernSparrowGenomics/Copies of Associated ELN files/SALS usat ms/Data and Analyses/SiteCoords.txt", header = TRUE)
+sites <- read.table("SiteCoords.txt", header = TRUE)
 @
 \end{lstlisting}
 
 \textbf{*Documentation of data sources and structure:}
 
-1.) File \href{run:\MyPath/Copies of Associated ELN files/SALS usat ms/Data and Analyses/SiteCoords.txt}{\underline{SiteCoords.txt}}. 
+1.) File \href{run:SiteCoords.txt}{\underline{SiteCoords.txt}}. 
 
 \textit{Source:} These data are the decimal degree coordinates for each marsh found on the 'Coords' tab in the \href{run:\MyPath/Copies of Associated ELN files/SALS usat ms/Data and Analyses/SHARP Marsh Coords.xlsx}{SHARP Marsh Coords.xlsx} file. I'm not sure who originally generated this file (dated July 29, 2016) or supplied the marsh coordinates, presumably Jen Walsh, Adrienne Kovach or maybe Bri Benvenuti. This text file is a copy of the Coords tab, formatted for R (Genalex-specific formatting removed, spaces in site names replaced with underscores).
 	
@@ -177,13 +177,13 @@ FinalMap <- ggdraw(map2) +draw_plot(mainland, width = 0.43, height = 0.5, x = 0.
 \textbf{Save final figure:}
 \begin{lstlisting}[linerange=\\begin\{Sinput\}-\\end\{Sinput\},includerangemarker=false, language=R]
 <<>>=
-ggsave(file = "/Users/Lindsey/Documents/ModernSparrowGenomics/Copies of Associated ELN files/SALS usat ms/Final Figures/FinalMap.pdf", plot = FinalMap, device = cairo_pdf, width = 6.5, units = "in")
+ggsave(file = "FinalMap.pdf", plot = FinalMap, device = cairo_pdf, width = 6.5, units = "in")
 @
 \end{lstlisting}
 
-\textbf{Copy of resulting \href{run:\MyPath/Copies of Associated ELN files/SALS usat ms/Final Figures/FinalMap.pdf}{FinalMap.pdf} plot:}
+\textbf{Copy of resulting \href{run:FinalMap.pdf}{FinalMap.pdf} plot:}
 
-\includegraphics[width=0.90\textwidth]{/Users/Lindsey/Documents/ModernSparrowGenomics/Copies of Associated ELN files/SALS usat ms/Final Figures/FinalMap.pdf}
+\includegraphics[width=0.90\textwidth]{FinalMap.pdf}
 \newpage
 \textbf{Record of Session Info:}
 
