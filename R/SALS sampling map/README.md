@@ -10,7 +10,7 @@ Snippet:
 
 ![Mapoutput](https://github.com/LEFenderson/Portfolio/assets/49617364/0deb84da-a1fe-448a-99f5-5b636801097b)
 
-**2.) SALSusat-Map.Rnw** - The LaTeX, Sweave & R code used to generate the SALSusat-Map.pdf document.
+**2.) SALSusat-Map.Rnw** - This file contains the LaTeX, Sweave & R code used to generate the SALSusat-Map.pdf document.
 
 Snippet:
 
