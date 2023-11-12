@@ -28,9 +28,9 @@ library(vegan)
 \begin{lstlisting}[linerange=\\begin\{Sinput\}-\\end\{Sinput\},includerangemarker=false, language=R]
 
 <<>>=
-GeoDist <- read.table("~/Documents/ModernSparrowGenomics/Copies_of_Associated_ELN_files/SALS usat ms/Data and Analyses/GeoDist.txt", header = FALSE)
-GenDist <- read.table("~/Documents/ModernSparrowGenomics/SALSusat/LEF - Additional Manuscript Analyses_Notes/IBD and SA/FstatGenDist.txt", header = FALSE)
-GGDvFST13Datab <- read.table("~/Documents/ModernSparrowGenomics/SALSusat/LEF - Additional Manuscript Analyses_Notes/IBD and SA/IBD-GGDFST13LocidLinearizedFST.txt", header = TRUE)
+GeoDist <- read.table("data/GeoDist.txt", header = FALSE)
+GenDist <- read.table("data/FstatGenDist.txt", header = FALSE)
+GGDvFST13Datab <- read.table("data/IBD-GGDFST13LocidLinearizedFST.txt", header = TRUE)
 @
 \end{lstlisting}
 
@@ -42,7 +42,7 @@ GGDvFST13Datab <- read.table("~/Documents/ModernSparrowGenomics/SALSusat/LEF - A
 
 	%\begin{figure}
 	 	\begin{center}	
- 		\includegraphics[width=6in]{\MyPath/Copies_of_Associated_ELN_files/SALS usat ms/MiscFigures/Screen Shot 2022-03-28 at 12.26.37 PM.png}
+ 		\includegraphics[width=6in]{data/Screen Shot 2022-03-28 at 12.26.37 PM.png}
 
 		{\textit{Calculating pairwise geographic distance from lat/long coordinates in Genalex}}
 		\end{center}
@@ -156,6 +156,6 @@ sessionInfo()
 @
 
 \bibliographystyle{plainnat}
-\bibliography{AllReferencesAvailable.bib}
+\bibliography{data/References.bib}
 
 \end{document}
