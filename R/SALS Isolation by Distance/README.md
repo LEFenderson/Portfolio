@@ -1,4 +1,4 @@
-This directory contains 5 files:
+This directory contains 7 files:
 
 **1.) SALSusat-IBD.pdf** - This output is an excerpt from my electronic research notebook documenting the data inputs and R code used to generate this linear regression figure of Saltmarsh sparrow pairwise geographic and genetic distances among sampled individuals to estimate isolation-by-distance:
 
@@ -14,6 +14,8 @@ Snippet:
 Snippet:
 
 ![IBDrnw](https://github.com/LEFenderson/Portfolio/assets/49617364/8e37395c-01d1-4b9d-bffb-65734b19b7d5)
+
+And a **data** folder which contains the neccessary files to compile the above code in Rstudio and generate the output pdf:
 
 **3.) GeoDist.txt** - *Input data*: A triangular matrix of pairwise geographic great-circle distances (km) among the 24 saltmarsh sparrow breeding marshes surveyed, used in the above script.
 
@@ -32,6 +34,10 @@ Snippet:
 Snippet:
 
 ![Screen Shot 2023-11-10 at 11 59 09 PM](https://github.com/LEFenderson/Portfolio/assets/49617364/380fd45f-5061-42ed-9512-14a6b809fdd2)
+
+**6.) Screen Shot 2022-03-28 at 12.26.37 PM.png** - A figure that documents how the GeoDist data were generated, which is embedded in the pdf output.
+
+**7.) References.bib** - A text file for including referenced in-text citations and a literature cited in the pdf output.
 
 [Back to R Directory Table of Contents](https://github.com/LEFenderson/Portfolio/tree/main/R#r-directory)
 
