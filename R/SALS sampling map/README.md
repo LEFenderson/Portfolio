@@ -16,7 +16,7 @@ Snippet:
 
 ![maprnw](https://github.com/LEFenderson/Portfolio/assets/49617364/578748bf-e106-49ec-af1c-7e97487dfbbb)
 
-**3.) SiteCoords.txt** - This file contains the GPS coordinates of the sampled saltmarsh sparrow breeding marshes:
+**3.) SiteCoords.txt** - *Input data*: This file contains the GPS coordinates of the sampled saltmarsh sparrow breeding marshes, used in the above script:
 
 ![Screen Shot 2023-11-10 at 7 34 48 PM](https://github.com/LEFenderson/Portfolio/assets/49617364/480b53fa-02e4-49a0-b65d-7544cfd78002)
 
