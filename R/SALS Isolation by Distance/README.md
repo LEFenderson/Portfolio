@@ -15,19 +15,19 @@ Snippet:
 
 ![IBDrnw](https://github.com/LEFenderson/Portfolio/assets/49617364/8e37395c-01d1-4b9d-bffb-65734b19b7d5)
 
-**3.) GeoDist.txt** - A triangular matrix of pairwise geographic great-circle distances (km) among the 24 saltmarsh sparrow breeding marshes surveyed.
+**3.) GeoDist.txt** - Input data: A triangular matrix of pairwise geographic great-circle distances (km) among the 24 saltmarsh sparrow breeding marshes surveyed, used in the above script.
 
 Snippet:
 
 ![Screen Shot 2023-11-10 at 11 59 26 PM](https://github.com/LEFenderson/Portfolio/assets/49617364/84379286-f4fa-4a0e-aa39-1f81174105d7)
 
-**4.) FstatGenDist.txt** - A triangular matrix of pairwise population genetic distances (Fst) among the 24 saltmarsh sparrow breeding marshes surveyed.
+**4.) FstatGenDist.txt** - Input data: A triangular matrix of pairwise population genetic distances (Fst) among the 24 saltmarsh sparrow breeding marshes surveyed, used in the above script.
 
 Snippet:
 
 ![Screen Shot 2023-11-10 at 11 58 05 PM](https://github.com/LEFenderson/Portfolio/assets/49617364/c7299643-c33b-438e-89c4-6a76976d1fe5)
 
-**5.) IBD-GGDFST13LocidLinearizedFST.txt** - A rectangular matrix of the above pairwise geographic and genetic distances.
+**5.) IBD-GGDFST13LocidLinearizedFST.txt** - Input data: A rectangular matrix of the above pairwise geographic and genetic distances, used in the above script.
 
 Snippet:
 
