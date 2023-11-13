@@ -32,6 +32,17 @@ This repository contains samples of code and outputs in various programming lang
 ### Preliminary Project Proposal Map
 #### Jump to [Preliminary Project Proposal Map directory](GIS%20%26%20Arcpy/Preliminary%20Project%20Proposal%20Map)
 
+Directory contains the below map figure generated in ArcGIS depicting regional focus areas for early-successional habitat management for New England cottontail (*Sylvilagus transitionalis*) and other priority species, in relation to current U.S. Fish & Wildlife Service National Wildlife Refuge boundaries in the region.
+
+![PPP map final2](https://github.com/LEFenderson/Portfolio/assets/49617364/c2b689e8-f43d-4d64-84dd-0246654d5604)
+
+Figure 2 "Rangewide New England cottontail focus areas." published in:
+
+*Fenderson LE (2012) Strategic Habitat Conservation for the New England Cottontail and
+Associated North Atlantic Shrublands, U.S. Fish and Wildlife Service. 24 pp.* 
+
+This document was the preliminary project proposal submitted to the director of the U.S. Fish & Wildlife Service as the first step in new National Wildlife Refuge land acquisition. In October 2016, the Director of the U.S. Fish and Wildlife Service approved the new [Great Thicket National Wildlife Refuge](https://www.fws.gov/refuge/great-thicket), dedicated to managing shrubland habitat for wildlife in the Northeastern United States.
+
 [Back to Portfolio Table of Contents](#portfolio)
 
 [Back to GIS & Arcpy Directory Table of Contents](#gis--arcpy)
