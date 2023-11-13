@@ -104,7 +104,8 @@ Additionally, includes my GIS analysis methodology for developing a spatiotempor
 
 ![LineGraphs](https://github.com/LEFenderson/Portfolio/assets/49617364/ed81fba3-7a6f-4a17-b626-ccf1a9ac670c)
 
-![barchart](https://github.com/LEFenderson/Portfolio/assets/49617364/50839b8f-dc58-4fc8-b913-8f4900fd8542)
+![structure](https://github.com/LEFenderson/Portfolio/assets/49617364/a1e7f795-f483-4a01-b4be-ee97fc1fda17)
+
 
 [Back to Portfolio Table of Contents](#portfolio)
 
