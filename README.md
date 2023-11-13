@@ -65,6 +65,16 @@ This document was the preliminary project proposal submitted to the director of 
 ### Spatiotemporal Sampling (Batch Processing)
 #### Jump to [Spatiotemporal Sampling (Batch Processing) directory](GIS%20%26%20Arcpy/Spatiotemporal%20Sampling%20(Batch%20Processing))
 
+
+![Screen Shot 2023-11-12 at 10 47 39 PM](https://github.com/LEFenderson/Portfolio/assets/49617364/54284cfe-341a-4669-976f-e127456f1523)
+
+![HoloceneACADSamplePopsSOIJitter](https://github.com/LEFenderson/Portfolio/assets/49617364/1652bcce-6c39-44c6-9aaa-e03a8e11bf6e)
+
+![LGMACADSamplePopsSOIJitter](https://github.com/LEFenderson/Portfolio/assets/49617364/6445a5b4-a0c9-4b7a-a33f-12467d8245e9)
+
+![UndatedACADSamplePopsSOIJitter](https://github.com/LEFenderson/Portfolio/assets/49617364/7adcb63c-d7f8-40fb-b1af-66828947d28c)
+
+
 [Back to Portfolio Table of Contents](#portfolio)
 
 [Back to GIS & Arcpy Directory Table of Contents](#gis--arcpy)
