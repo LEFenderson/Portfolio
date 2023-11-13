@@ -4,12 +4,12 @@ This directory contains a selection of analyses and figures generated with ArcGI
 
 **Jump to Section:**
 
-- [Mobile Acoustic Transect Bat Survey Route Design](#mobile-acoustic-transect-bat-survey-route-design)
+- [Acoustic Bat Survey Design](#acoustic-bat-survey-design)
 - [Preliminary Project Proposal Map](#preliminary-project-proposal-map)
 - [Spatiotemporal Sampling (Batch Processing)](#spatiotemporal-sampling-batch-processing)
 
-### Mobile Acoustic Transect Bat Survey Route Design
-Jump to folder: [Mobile Acoustic Transect Bat Survey Route Design](GIS%20%26%20Arcpy/Mobile%20Acoustic%20Transect%20Bat%20Survey%20Route%20Design)
+### Acoustic Bat Survey Design
+Jump to folder: [Acoustic Bat Survey Design](GIS%20%26%20Arcpy/Acoustic%20Bat%20Survey%20Design)
 
 This folder contains the below output map figures:
 
