@@ -9,7 +9,7 @@ This directory contains a selection of analyses and figures generated with ArcGI
 - [Spatiotemporal Sampling (Batch Processing)](#spatiotemporal-sampling-batch-processing)
 
 ### Acoustic Bat Survey Design
-Jump to folder: [Acoustic Bat Survey Design](GIS%20%26%20Arcpy/Acoustic%20Bat%20Survey%20Design)
+Jump to folder: [Acoustic Bat Survey Design](Acoustic%20Bat%20Survey%20Design)
 
 This folder contains the below output map figures:
 
@@ -18,7 +18,7 @@ This folder contains the below output map figures:
 [Back to Portfolio Table of Contents](https://github.com/LEFenderson/Portfolio/blob/main/README.md#portfolio)
 
 ### Preliminary Project Proposal Map
-Jump to folder: [Preliminary Project Proposal Map](GIS%20%26%20Arcpy/Preliminary%20Project%20Proposal%20Map)
+Jump to folder: [Preliminary Project Proposal Map](Preliminary%20Project%20Proposal%20Map)
 
 This folder contains the below output map figure:
 ![PPP map final2](https://github.com/LEFenderson/Portfolio/assets/49617364/05e3836e-f9f6-4f06-bbfb-223808ef39ce)
@@ -34,7 +34,7 @@ This document was the preliminary project proposal submitted to the director of 
 [Back to Portfolio Table of Contents](https://github.com/LEFenderson/Portfolio/blob/main/README.md#portfolio)
 
 ### Spatiotemporal Sampling (Batch Processing)
-Jump to folder: [Spatiotemporal Sampling (Batch Processing)](GIS%20%26%20Arcpy/Spatiotemporal%20Sampling%20(Batch%20Processing))
+Jump to folder: [Spatiotemporal Sampling (Batch Processing)](Spatiotemporal%20Sampling%20(Batch%20Processing))
 
 
 [Back to GIS & Arcpy Directory Table of Contents](https://github.com/LEFenderson/Portfolio/tree/main/GIS%20&%20Arcpy)
