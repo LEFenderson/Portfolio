@@ -1,5 +1,5 @@
 # Portfolio
-This repository contains samples of code and outputs in various programming languages that I have produced in my career.
+This repository (IN PROGRESS) contains samples of code and outputs in various programming languages that I have produced in my career.
 
 **Jump to Section:**
 
