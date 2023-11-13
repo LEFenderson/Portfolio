@@ -25,6 +25,17 @@ This repository contains samples of code and outputs in various programming lang
 ### Mobile Acoustic Transect Bat Survey Route Design
 #### Jump to [Mobile Acoustic Transect Bat Survey Route Design directory](GIS%20%26%20Arcpy/Mobile%20Acoustic%20Transect%20Bat%20Survey%20Route%20Design)
 
+Directory contains the below map figures generated in ArcGIS depicting the results of GIS analyses conducted to design a mobile acoustic bat survey route based on standardized survey criteria:
+
+![CEBiddefordBatSurveyRoute](https://github.com/LEFenderson/Portfolio/assets/49617364/f5ed3b10-af91-4ce3-93db-58e8c2acee3c)
+
+Also includes a map figure generated in ArcGIS depicting the results of the mobile acoustic bat surveys along a section of the transect for the season:
+
+![KWB](https://github.com/LEFenderson/Portfolio/assets/49617364/6e0716cb-fc68-410a-9c0a-de26ba905bd6)
+
+Figure 7 "Locations of bat calls detected during Kittery - Wells mobile acoustic surveys; Section 2." published in an internal report to Rachel Carson National Wildlife Refuge summarizing the results of the 2012 pilot bat monitoring survey efforts.
+
+
 [Back to Portfolio Table of Contents](#portfolio)
 
 [Back to GIS & Arcpy Directory Table of Contents](#gis--arcpy)
