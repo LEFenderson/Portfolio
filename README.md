@@ -8,16 +8,77 @@ This repository contains samples of code and outputs in various programming lang
 - [R](#r)
 
 ## *Bash & Awk*
+### Contains a selection of shell scripts:
+#### Jump to [Bash & Awk directory](Bash%20%26%20Awk) 
+**Jump to Section:**
+
 
 ## *GIS & Arcpy*
+### Contains a selection of analyses and figures generated in ArcGIS:
+#### Jump to [GIS & Arcpy directory](GIS%20%26%20Arcpy) 
+**Jump to Section:**
+
+- [Mobile Acoustic Transect Bat Survey Route Design](#mobile-acoustic-transect-bat-survey-route-design)
+- [Preliminary Project Proposal Map](#preliminary-project-proposal-map)
+- [Spatiotemporal Sampling (Batch Processing)](#spatiotemporal-sampling-batch-processing)
+
+### Mobile Acoustic Transect Bat Survey Route Design
+#### Jump to [Mobile Acoustic Transect Bat Survey Route Design directory](GIS%20%26%20Arcpy/Mobile%20Acoustic%20Transect%20Bat%20Survey%20Route%20Design)
+
+[Back to Portfolio Table of Contents](#portfolio)
+
+[Back to GIS & Arcpy Directory Table of Contents](#gis--arcpy)
+
+### Preliminary Project Proposal Map
+#### Jump to [Preliminary Project Proposal Map directory](GIS%20%26%20Arcpy/Preliminary%20Project%20Proposal%20Map)
+
+[Back to Portfolio Table of Contents](#portfolio)
+
+[Back to GIS & Arcpy Directory Table of Contents](#gis--arcpy)
+
+### Spatiotemporal Sampling (Batch Processing)
+#### Jump to [Spatiotemporal Sampling (Batch Processing) directory](GIS%20%26%20Arcpy/Spatiotemporal%20Sampling%20(Batch%20Processing))
+
+[Back to Portfolio Table of Contents](#portfolio)
+
+[Back to GIS & Arcpy Directory Table of Contents](#gis--arcpy)
+
 
 ## *R*
 ### Contains a selection of analyses and figures generated with R:
 #### Jump to [R directory](R) 
 **Jump to Section:**
 
+- [Assessing Spatiotemporal Population Structure (Line Graphs & Bar Charts)](#assessing-spatiotemporal-population-structure-line-graphs--bar-charts)
+- [SALS Allelic Richness](#sals-allelic-richness)
+- [SALS Breeding Marsh Environmental Characteristics & Population Structure PCA](#sals-breeding-marsh-environmental-characteristics--population-structure-pca)
 - [Isolation by Distance](#isolation-by-distance)
-- [Map of Saltmarsh Sparrow Sampling Sites](#map-of-saltmarsh-sparrow-sampling-sites) 
+- [Map of Saltmarsh Sparrow Sampling Sites](#map-of-saltmarsh-sparrow-sampling-sites)
+- [Shrubland Development Experimental Plots Analyses (ANOVA & Generalized linear models)](#shrubland-development-experimental-plots-analyses-anova--generalized-linear-models)
+
+### Assessing Spatiotemporal Population Structure (Line Graphs & Bar Charts)
+#### Jump to [Assessing Spatiotemporal Population Structure (Line Graphs & Bar Charts) directory](R/Assessing%20Spatiotemporal%20Population%20Structure%20(Line%20Graphs%20%26%20Bar%20Charts))
+
+
+[Back to Portfolio Table of Contents](#portfolio)
+
+[Back to R Directory Table of Contents](#r)
+
+### SALS Allelic Richness
+#### Jump to [SALS Allelic Richness directory](R/SALS%20Allelic%20Richness)
+
+[Back to Portfolio Table of Contents](#portfolio)
+
+[Back to R Directory Table of Contents](#r)
+
+### SALS Breeding Marsh Environmental Characteristics & Population Structure PCA
+#### Jump to [SALS Breeding Marsh Environmental Characteristics & Population Structure PCA directory](R/SALS%20Breeding%20Marsh%20Environmental%20Characteristics%20%26%20Population%20Structure%20PCA)
+
+
+[Back to Portfolio Table of Contents](#portfolio)
+
+[Back to R Directory Table of Contents](#r)
+
 ### Isolation by Distance
 #### Jump to [SALS Isolation by Distance directory](R/SALS%20Isolation%20by%20Distance)
 
@@ -46,6 +107,14 @@ Directory contains the relevant data and code used to generate the below map dep
 AR, Longenecker R, O’Brien KM, Olsen BJ, Ruskin KJ, Shriver WG, Kovach AI (2023) Surrounding
 landscape, habitat and hybridization dynamics drive population structure and genetic diversity in
 the Saltmarsh Sparrow. Ornithological Applications duad025.*
+
+[Back to Portfolio Table of Contents](#portfolio)
+
+[Back to R Directory Table of Contents](#r)
+
+### Shrubland Development Experimental Plots Analyses (ANOVA & Generalized linear models)
+#### Jump to [Shrubland Development Experimental Plots Analyses (ANOVA & Generalized linear models) directory](R/Shrubland%20Development%20Experimental%20Plots%20Analyses%20(ANOVA%20%26%20Generalized%20linear%20models))
+
 
 [Back to Portfolio Table of Contents](#portfolio)
 
