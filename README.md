@@ -9,6 +9,13 @@ This repository (IN PROGRESS) contains samples of code and outputs in various pr
 
 ## *Bash & Awk*
 ### Contains a selection of shell scripts:
+- [Structure.sh](https://github.com/LEFenderson/Portfolio/blob/main/Bash%20%26%20AWK/Structure.sh)
+- [DownsamplingBams.sh](https://github.com/LEFenderson/Portfolio/blob/main/Bash%20%26%20AWK/DownsamplingBams.sh)
+  
+See Also: 
+- https://github.com/LEFenderson/Data_Management_Scripts
+- https://github.com/LEFenderson/Bioinfo-Scripts
+  
 #### Jump to [Bash & Awk directory](Bash%20%26%20Awk) 
 **Jump to Section:**
 
@@ -95,6 +102,9 @@ Additionally, includes my GIS analysis methodology for developing a spatiotempor
 ### Assessing Spatiotemporal Population Structure (Line Graphs & Bar Charts)
 #### Jump to [Assessing Spatiotemporal Population Structure (Line Graphs & Bar Charts) directory](R/Assessing%20Spatiotemporal%20Population%20Structure%20(Line%20Graphs%20%26%20Bar%20Charts))
 
+![LineGraphs](https://github.com/LEFenderson/Portfolio/assets/49617364/ed81fba3-7a6f-4a17-b626-ccf1a9ac670c)
+
+![barchart](https://github.com/LEFenderson/Portfolio/assets/49617364/50839b8f-dc58-4fc8-b913-8f4900fd8542)
 
 [Back to Portfolio Table of Contents](#portfolio)
 
@@ -103,6 +113,9 @@ Additionally, includes my GIS analysis methodology for developing a spatiotempor
 ### SALS Allelic Richness
 #### Jump to [SALS Allelic Richness directory](R/SALS%20Allelic%20Richness)
 
+
+![violin](https://github.com/LEFenderson/Portfolio/assets/49617364/4dcc3383-f45e-4cda-96b6-f1cb57de3598)
+
 [Back to Portfolio Table of Contents](#portfolio)
 
 [Back to R Directory Table of Contents](#r)
@@ -110,6 +123,7 @@ Additionally, includes my GIS analysis methodology for developing a spatiotempor
 ### SALS Breeding Marsh Environmental Characteristics & Population Structure PCA
 #### Jump to [SALS Breeding Marsh Environmental Characteristics & Population Structure PCA directory](R/SALS%20Breeding%20Marsh%20Environmental%20Characteristics%20%26%20Population%20Structure%20PCA)
 
+![PCA](https://github.com/LEFenderson/Portfolio/assets/49617364/55c36572-a6df-46e7-8a32-3c3dc6e50236)
 
 [Back to Portfolio Table of Contents](#portfolio)
 
